@@ -1,0 +1,17 @@
+
+<html>
+    <head>
+        <title> Javascript </title>
+        <script>
+            document.write("Hello world ");
+            document.write("Hello from yahoo baba");
+        </script>
+    </head>
+    <body>
+        <h1> Hello</h1>
+    <script>
+        document.write("Hey ");
+
+    </script>
+    </body>
+</html>
